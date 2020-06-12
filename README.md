@@ -1,10 +1,10 @@
 #### 介绍
 B站视频的文档资料柜，
 java学习从入门到找工作必备
-#### B 站 主页
-
+#### B站主页
+视频和文档同步更新，但是由于精力原因，文档尚未精细化，有不足支出敬请原谅。
 https://www.bilibili.com/video/BV1YV411r762
-#### B 站
+#### B站视屏
 1、[javaSE入门](https://www.bilibili.com/video/BV1jJ411H7pf) : https://www.bilibili.com/video/BV1jJ411H7pf <br>
 2、[前端基础入门](https://www.bilibili.com/video/BV1m7411A7xj) : https://www.bilibili.com/video/BV1m7411A7xj <br>
 3、[mysql入门](https://www.bilibili.com/video/BV13741127nv) : https://www.bilibili.com/video/BV13741127nv <br>
