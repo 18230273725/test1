@@ -5,8 +5,6 @@ java学习从入门到找工作必备
 
 https://www.bilibili.com/video/BV1YV411r762
 #### B 站
-<img alt="springboot" style="height: 200px;width: 300px" src="https://i0.hdslb.com/bfs/album/667f1ee148f9207e70f7de37f54c780a5ce48d2b.jpg" />
-
 1、[javaSE入门](https://www.bilibili.com/video/BV1jJ411H7pf) : https://www.bilibili.com/video/BV1jJ411H7pf <br>
 2、[前端基础入门](https://www.bilibili.com/video/BV1m7411A7xj) : https://www.bilibili.com/video/BV1m7411A7xj <br>
 3、[mysql入门](https://www.bilibili.com/video/BV13741127nv) : https://www.bilibili.com/video/BV13741127nv <br>
@@ -18,5 +16,6 @@ https://www.bilibili.com/video/BV1YV411r762
 9、[SSM整合教程](https://www.bilibili.com/video/BV19f4y127Rt) : https://www.bilibili.com/video/BV19f4y127Rt <br>
 10、[redis教程](https://www.bilibili.com/video/BV1YK411p79q) : https://www.bilibili.com/video/BV1YK411p79q <br>
 11、[springboot教程](https://www.bilibili.com/video/BV1YV411r762) : https://www.bilibili.com/video/BV1YV411r762 <br>
+![springboot](https://i0.hdslb.com/bfs/album/667f1ee148f9207e70f7de37f54c780a5ce48d2b.jpg)
 
 未完待续
