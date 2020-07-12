@@ -1,6 +1,11 @@
 #### 介绍
 B站视频的文档资料柜，
 java学习从入门到找工作必备
+
+招徒弟啦！300元每月，小班学习，用不到十分之一的钱学IT，我亲自带，
+详细请看一下内容
+https://www.jianshu.com/p/6d163c53b9a8
+
 #### B站主页
 视频和文档同步更新，但是由于精力原因，文档尚未精细化，有不足支出敬请原谅。
 https://www.bilibili.com/video/BV1YV411r762
@@ -16,7 +21,5 @@ https://www.bilibili.com/video/BV1YV411r762
 9、[SSM整合教程](https://www.bilibili.com/video/BV19f4y127Rt) : https://www.bilibili.com/video/BV19f4y127Rt <br>
 10、[redis教程](https://www.bilibili.com/video/BV1YK411p79q) : https://www.bilibili.com/video/BV1YK411p79q <br>
 11、[springboot教程](https://www.bilibili.com/video/BV1YV411r762) : https://www.bilibili.com/video/BV1YV411r762 <br>
-![springboot](https://i0.hdslb.com/bfs/album/667f1ee148f9207e70f7de37f54c780a5ce48d2b.jpg)
-
 
 未完待续
